@@ -1,0 +1,11 @@
+.countries,
+.country {
+  display: flex;
+}
+.countries-left,
+.countries-right {
+  width: 50%;
+}
+.country {
+  justify-content: space-between;
+}
